@@ -1,1 +1,5 @@
 ProgettoIDS.vpp.*
+.ProgettoIDS.vpp.lck
+.lock
+.vpprefdata/
+tmp/
